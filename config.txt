@@ -1,0 +1,7 @@
+poweraddress USB0::0x0957::0xA007::3277386F3137::0::INSTR
+cycle_time 3
+port1 COM5
+port2 COM3
+buad 2000000
+
+
